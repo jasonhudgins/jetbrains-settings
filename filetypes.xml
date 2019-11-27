@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="debug_log_create" type="SQL" />
-      <mapping pattern="ripple" type="XML" />
-    </extensionMap>
-  </component>
-</application>
