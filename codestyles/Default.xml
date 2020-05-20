@@ -2,10 +2,11 @@
   <option name="RIGHT_MARGIN" value="160" />
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
+    <option name="XML_TEXT_WRAP" value="0" />
     <option name="XML_KEEP_LINE_BREAKS_IN_TEXT" value="false" />
   </XML>
   <codeStyleSettings language="XML">
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
     </indentOptions>
