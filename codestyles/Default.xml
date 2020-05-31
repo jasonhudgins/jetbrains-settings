@@ -1,5 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="160" />
+  <JavaCodeStyleSettings>
+    <option name="FIELD_NAME_PREFIX" value="m" />
+    <option name="STATIC_FIELD_NAME_PREFIX" value="s" />
+  </JavaCodeStyleSettings>
   <XML>
     <option name="XML_ATTRIBUTE_WRAP" value="0" />
     <option name="XML_TEXT_WRAP" value="0" />
