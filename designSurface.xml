@@ -1,0 +1,9 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="res/layout/fragment_opml.xml" value="0.2046875" />
+      </map>
+    </option>
+  </component>
+</application>
