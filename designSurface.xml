@@ -4,6 +4,7 @@
       <map>
         <entry key="res/layout/fragment_opml.xml" value="0.2046875" />
         <entry key="res/menu/cm_fragment_episode_list.xml" value="0.1" />
+        <entry key="res/menu/cm_fragment_playlist.xml" value="0.3177083333333333" />
         <entry key="res/menu/options_fragment_episode_list.xml" value="0.1" />
       </map>
     </option>
