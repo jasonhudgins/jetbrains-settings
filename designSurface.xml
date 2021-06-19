@@ -4,6 +4,7 @@
       <map>
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="res/layout/component_episode_details.xml" value="0.278125" />
+        <entry key="res/layout/fragment_now_playing.xml" value="0.1" />
         <entry key="res/layout/fragment_opml.xml" value="0.2046875" />
         <entry key="res/menu/cm_fragment_episode_list.xml" value="0.1" />
         <entry key="res/menu/cm_fragment_offline_list.xml" value="0.2125" />
